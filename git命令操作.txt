@@ -1,0 +1,17 @@
+Git is a version control system.
+Git is free software.
+
+
+git 用户设置
+
+创建用户
+git config --global user.name"XXX"
+
+创建用户邮箱
+git config --global user.mail"XXX"
+
+添加和提交
+
+git add hello.txt
+
+git commit -m "just atest"
