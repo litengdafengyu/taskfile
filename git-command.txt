@@ -4,3 +4,5 @@ git config --global user.name"XXX"
 git add x1 
 git add x2
 git commit -w"XXX"
+
+git reflog
