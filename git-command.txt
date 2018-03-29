@@ -6,3 +6,6 @@ git add x2
 git commit -w"XXX"
 
 git reflog
+
+Git has a mutable index called stage.
+Git tracks changes of files.
